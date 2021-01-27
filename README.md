@@ -24,5 +24,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 https://github.com/Binaryify/NeteaseCloudMusicApi
 
 
-
-# clothes-mall
